@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [admin panel](https://github.com/BegaliyevXushnud/react-query-erp)
 
-- 🤝 I’m looking for help with [tesla](https://react-tesla-three.vercel.app/)
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/BegaliyevXushnud?tab=repositories](https://github.com/BegaliyevXushnud?tab=repositories)
 
